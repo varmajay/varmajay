@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Sarvadhi Solution Pvt Ltd
+- 🔭 I’m currently working on p.A.I
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
